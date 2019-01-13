@@ -1,6 +1,6 @@
 # A Codecademy exercise to demonstrate directive
 
-A single page AngularJS app for their scoreboard that displays NBA scores from around the league.
+A single page AngularJS app for a scoreboard that displays NBA scores from around the league.
 
 # Setting up AngularJS development environment on Windows
 
