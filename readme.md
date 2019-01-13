@@ -54,7 +54,7 @@ A development web server will be launched at http://localhost:9000:
 
 Clear contents in app folder and clone your project files into it
 
-Link to app: https://geraldgsh.github.io/e-reader/#/books
+Link to app: https://geraldgsh.github.io/gameboard/
 
 License
 ----
